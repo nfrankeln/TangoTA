@@ -1,5 +1,5 @@
 # TangoTA
-
+This is where I will compile problems and solutions for CodePlatoon Problems
 ### Week 1
 ## day 1
 | Problem | Solution |
